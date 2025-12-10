@@ -1,4 +1,4 @@
-# 🧮 React BMI Calculator
+BMI_Image.png# 🧮 React BMI Calculator
 
 A modern, responsive, and easy-to-use Body Mass Index (BMI) Calculator built with **React**.  
 This project helps users quickly calculate their BMI and understand their body weight category in a simple and visually appealing way.
@@ -34,4 +34,4 @@ It’s a great example project for learning **React fundamentals** while creatin
 
 ## 🖥️ Live Preview
 
-![alt text](https://github.com/DinkoHristov/React_BMI-Calculator/blob/main/BMI_Image.jpg?raw=true)
+![alt text](https://github.com/DinkoHristov/React_BMI-Calculator/blob/main/BMI_Image.png?raw=true)
