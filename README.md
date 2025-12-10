@@ -34,3 +34,4 @@ It’s a great example project for learning **React fundamentals** while creatin
 
 ## 🖥️ Live Preview
 
+![alt text](https://github.com/DinkoHristov/React_BMI-Calculator/blob/main/BMI_Image.jpg?raw=true)
